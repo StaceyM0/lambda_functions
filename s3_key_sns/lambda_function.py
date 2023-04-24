@@ -12,7 +12,6 @@ def get_key(record):
     return key
 
 def lambda_handler(event, context):
-    # TODO implement
     
     Records = event['Records']
     
