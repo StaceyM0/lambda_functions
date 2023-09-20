@@ -1,6 +1,3 @@
-
-
-
 import json
 import uuid
 import boto3
